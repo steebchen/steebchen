@@ -2,7 +2,8 @@
 
 ## 💫 About Me
 
-I'm consulting IT companies focusing on clean code & tech stack.<br>In my spare time I'm working on the Prisma Go client :)
+I'm consulting IT companies focusing on clean code & tech stack.<br>
+In my spare time I'm working on the [Prisma Go client](https://github.com/prisma/prisma-client-go) :)
 
 
 ## 🌐 Socials
