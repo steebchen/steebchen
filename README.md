@@ -2,9 +2,11 @@
 
 ## 💫 About Me
 
-I'm consulting IT companies focusing on clean code & tech stack.<br>
-In my spare time I'm working on the [Prisma Go client](https://github.com/prisma/prisma-client-go) :)
+I'm consulting IT companies focusing on clean code & tech stack.
 
+The [Prisma Go client](https://github.com/prisma/prisma-client-go) is my main open source project at this time. It's a type-safe database client for Go built on Prisma, a next generation database library.
+
+If you are using [Go](https://go.dev), you should definitely check it out to completely transform how you work with databases in Go. I also offer [consulting](https://github.com/sponsors/steebchen) services around using Go in your company, using the Prisma Go Client productively in your company, CI/CD, and more.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/steebchen) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/steebchen) 
